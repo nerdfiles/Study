@@ -19,6 +19,8 @@
 1. table of contents
 2. glossary 
    0. hermetology
+   0. hermecality
+   0. hermecology
    1. hermeneutics
    2. typoneutics
    3. typematics
@@ -40,14 +42,16 @@
    19. typology
    20. typicality
    21. typomycology
-   22. hermecology
    23. mycality
-   24. hermecality
    25. ecality
 
 ## glossary
 
 ### hermetology
+
+### hermecality
+
+### hermecology
 
 ### hermeneutics
 
@@ -56,6 +60,8 @@
 ### typematics
 
 ### stylometrics
+
+### styloneutics
 
 ### stylocology
 
@@ -91,12 +97,32 @@
 
 ### typomycology
 
-### hermecology
-
 ### mycality
 
-### hermecality
-
 ### ecality
+
+### stlocality
+
+### psiocality
+
+### commutology
+
+### commumetrics
+
+### communicality
+
+### commutomycology
+
+### commocology
+
+### socioecology
+
+### sociomycology
+
+### epistemycology
+
+### epistemetrics
+
+### epistematics
 
 <!-- EOF -->
