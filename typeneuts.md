@@ -18,9 +18,9 @@
 
 1. table of contents
 2. glossary 
-   0. hermetology
-   0. hermecality
-   0. hermecology
+   0. hermeneutology
+   0. hermeneucality
+   0. hermeneucology
    1. hermeneutics
    2. typoneutics
    3. typematics
@@ -47,13 +47,15 @@
 
 ## glossary
 
-### hermetology
+### hermeneutology
 
-### hermecality
+### hermeneucality
 
-### hermecology
+### hermeneucology
 
 ### hermeneutics
+
+### hermeneusophy
 
 ### typoneutics
 
