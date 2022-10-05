@@ -111,13 +111,9 @@
 
 ### communicality
 
-### commutomycology
+### communicatomycology
 
 ### commocology
-
-### socioecology
-
-### sociomycology
 
 ### epistemycology
 
@@ -137,8 +133,6 @@
 
 ### epistemyphony
 
-### sociouphony
-
 ### phylocality
 
 ### phytocality
@@ -150,5 +144,74 @@
 ### phytology
 
 ### phylology
+
+### phylocymatics
+
+### psiocyclomatics
+
+### psiocyclometrics
+
+### phytocyclomatics
+
+### phylocyclomatics
+
+### phylocyclology
+
+### phytocyclology
+
+### sociocyonics
+
+### sociomycolonics
+
+### sociocyclology
+
+### sociocymatics
+
+### sociouphony
+
+### socioecology
+
+### sociomycology
+
+### sociocyclomatics
+
+### sociocyclodicy
+
+### sociodicy
+
+### sociology
+
+### sociosophy
+
+### epistemycosophy
+
+### phytosophy
+
+### stylosophy
+
+### sociogonics
+
+### hermeneutosophy
+
+### psiosophy
+
+### typosophy
+
+### theouphony
+
+### mycosophy
+
+### communicymatics
+
+### communicology
+
+### communicatocyclodicy
+
+### communicatocyclosophy
+
+### communicatocyclophony
+
+### theocyclomatics
+
 
 <!-- EOF -->
