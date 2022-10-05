@@ -110,7 +110,11 @@
 
 ### stylocologicality
 
-### commutology
+### communitology
+
+### communidicy
+
+### communigony
 
 ### commu(ni)metrics
 
@@ -119,6 +123,16 @@
 ### communicatomycology
 
 ### commocology
+
+### communicymatics
+
+### communicology
+
+### communicatocyclodicy
+
+### communicatocyclosophy
+
+### communicatocyclophony
 
 ### epistemycology
 
@@ -206,16 +220,8 @@
 
 ### mycosophy
 
-### communicymatics
-
-### communicology
-
-### communicatocyclodicy
-
-### communicatocyclosophy
-
-### communicatocyclophony
-
 ### theocyclomatics
+
+### entropicality
 
 <!-- EOF -->
