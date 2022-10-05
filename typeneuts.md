@@ -1,4 +1,4 @@
-# typeneuts, hermeneuts, typeneutics, hermecality, typocology
+# typoneuts, hermeneuts, typoneutics, hermecality, typo(my)cology
 
 > 15. The secret does not need communication in order to be what it is, to
 > be known and to be an “object” of a rigorous science. But communication needs
@@ -22,8 +22,7 @@
    0. hermeneucality
    0. hermeneucology
    1. hermeneutics
-   2. typoneutics
-   3. typematics
+   3. stylomaticity
    4. stylometrics
    5. stylocology
    6. stylonics
@@ -31,25 +30,33 @@
    8. psicality
    9. psiology
    10. psiometrics
-   11. psiomatrics
-   12. psioneutics
+   11. psiomaticity
+   12. psioneutomaticity
    13. psiotology
    14. psioenantopology
-   15. psioenmatics
+   15. psioenmaticity
    16. psiomycology
    17. psioecology
+   18. psioneutology
    18. typometrics
    19. typology
-   20. typicality
+   21. typicality (peter carl)
+   20. typomycolocality
+   21. typomaticity
+   26. typoneutology
+   22. typoneutomaticity
+   21. typomycolocality
    21. typomycology
-   23. mycality
-   25. ecality
+   22. endomycology
+   23. endomaticity
+   23. mycologicality
+   24. entropicality
 
 ## glossary
 
 ### hermeneutology
 
-### hermeneucality
+### hermeneutocality
 
 ### hermeneucology
 
@@ -71,7 +78,7 @@
 
 ### psiocology
 
-### psicality
+### psiocologicality
 
 ### psiology
 
@@ -99,19 +106,15 @@
 
 ### typomycology
 
-### mycality
+### mycologicality
 
-### ecality
-
-### stylocality
-
-### psiocality
+### stylocologicality
 
 ### commutology
 
 ### commu(ni)metrics
 
-### communicality
+### communicatocologicality
 
 ### communicatomycology
 
