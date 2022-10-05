@@ -107,7 +107,7 @@
 
 ### commutology
 
-### commumetrics
+### commu(ni)metrics
 
 ### communicality
 
