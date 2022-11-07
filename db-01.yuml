@@ -1,0 +1,10 @@
+// {type:state}
+// {description:python in yuml.}
+
+(start)->(range one-nplus1)
+(range one-nplus1)->( b//z for z in )
+  ( b//z for z in )->( ... for b in )
+  ( ... for b in )->(range 1-nplus2)
+(range one-nplus2)->(end)
+
+// {EOF}
